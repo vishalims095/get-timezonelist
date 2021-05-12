@@ -8,8 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "all timezone, timezone, timezonelist, country timezone, get timezone"
+    "url": "https://github.com/vishalims095/get-timezonelist"
   },
   "author": "vishal sharma",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords" : [
+    "get-timezonelist",
+    "all timezone", 
+    "timezone", 
+    "timezonelist", 
+    "country timezone", 
+    "get timezone"
+  ]
 }
