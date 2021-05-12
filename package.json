@@ -1,0 +1,15 @@
+{
+  "name": "get-timezonelist",
+  "version": "1.1.2",
+  "description": "this is all timezone list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "all timezone, timezone, timezonelist, country timezone, get timezone"
+  },
+  "author": "vishal sharma",
+  "license": "ISC"
+}
